@@ -1,0 +1,87 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DriverSearching]
+
+"SearchOrderConfig"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DriverSearching]
+
+"SearchOrderConfig"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters]
+
+"EnablePrefetcher"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"FeatureSettingsOverride"=dword:00000003
+"FeatureSettingsOverrideMask"=dword:00000003
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Serialize]
+
+"StartupDelayInMSec"=dword:00000000
+
+; Disable StickyKeys
+[HKEY_CURRENT_USER\Control Panel\Accessibility\StickyKeys]
+"Flags"=dword:0
+
+; Decrease Mouse Hover Response Time
+[HKEY_CURRENT_USER\Control Panel\Mouse]
+"MouseHoverTime"=dword:10
+
+; Decrease Keyboard Response Time
+[HKEY_CURRENT_USER\Control Panel\Accessibility\Keyboard Response]
+"Flags"=dword:0
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DriverSearching]
+
+"SearchOrderConfig"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters]
+
+"EnablePrefetcher"=dword:00000000
+
+[HKEY_CURRENT_USER\Control Panel\Keyboard]
+"KeyboardDelay"="0"
+
+[HKEY_USERS\.DEFAULT\Control Panel\Keyboard]
+"KeyboardDelay"="0"
+
+                       
+[HKEY_CURRENT_USER\Control Panel\Mouse]
+
+"MouseHoverTime"="10"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\kbdclass\Parameters]
+
+"KeyboardDataQueueSize"=dword:0000001e
+
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+
+"MenuShowDelay"="0"
+
+[HKEY_CURRENT_USER\Control Panel\Mouse]
+
+"MouseSensitivity"="10"
+"SmoothMouseXCurve"=hex:\
+	00,00,00,00,00,00,00,00,\
+	C0,CC,0C,00,00,00,00,00,\
+	80,99,19,00,00,00,00,00,\
+	40,66,26,00,00,00,00,00,\
+	00,33,33,00,00,00,00,00
+"SmoothMouseYCurve"=hex:\
+	00,00,00,00,00,00,00,00,\
+	00,00,38,00,00,00,00,00,\
+	00,00,70,00,00,00,00,00,\
+	00,00,A8,00,00,00,00,00,\
+	00,00,E0,00,00,00,00,00
+
+[HKEY_USERS\.DEFAULT\Control Panel\Mouse]
+
+"MouseSpeed"="0"
+"MouseThreshold1"="0"
+"MouseThreshold2"="0"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\mouclass\Parameters]
+
+"MouseDataQueueSize"=dword:0000001e

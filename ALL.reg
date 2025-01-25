@@ -1,0 +1,134 @@
+Windows Registry Editor Version 5.00
+
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\943c8cb6-6f93-4227-ad87-e9a3feec08d1]
+
+"Attributes"="2"
+
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"ClearPageFileAtShutdown"=dword:00000000
+"DisablePagingExecutive"=dword:00000001
+"LargeSystemCache"=dword:00000000
+"NonPagedPoolQuota"=dword:00000000
+"NonPagedPoolSize"=dword:00000000
+"PagedPoolQuota"=dword:00000000
+"PagedPoolSize"=dword:000000c0
+"SecondLevelDataCache"=dword:00000400
+"SessionPoolSize"=dword:000000c0
+"SessionViewSize"=dword:000000c0
+"SystemPages"=dword:ffffffff
+"PhysicalAddressExtension"=dword:00000001
+"FeatureSettings"=dword:00000001
+"FeatureSettingsOverride"=dword:00000003
+"FeatureSettingsOverrideMask"=dword:00000003
+"IoPageLockLimit"=dword:00fefc00
+"PoolUsageMaximum"=dword:00000060
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters]
+"EnablePrefetcher"=dword:00000003
+"EnableSuperfetch"=dword:000000
+
+	
+
+[HKEY_CURRENT_USER\System\GameConfigStore]
+
+"GameDVR_FSEBehaviorMode"=dword:00000002
+
+"GameDVR_HonorUserFSEBehaviorMode"=dword:00000001
+
+"GameDVR_FSEBehavior"=dword:00000002
+
+"GameDVR_DXGIHonorFSEWindowsCompatible"=dword:00000001
+
+
+[HKEY_USERS\S-1-5-18\Control Panel\Desktop]
+"DragFullWindows"="1"
+"FontSmoothing"="2"
+"FontSmoothingOrientation"=dword:00000001
+"FontSmoothingType"=dword:00000002
+"UserPreferencesMask"=hex:9e,3e,03,80,12,00,00,00
+"LockScreenAutoLockActive"="0"
+
+[HKEY_USERS\S-1-5-18\Control Panel\Desktop\WindowMetrics]
+
+[HKEY_USERS\S-1-5-18\Control Panel\Desktop\MuiCached]
+"MachinePreferredUILanguages"=hex(7):65,00,6e,00,2d,00,55,00,53,00,00,00
+
+[HKEY_USERS\.DEFAULT\Control Panel\Cursors]
+@="@main.cpl,-1020"
+"AppStarting"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,\
+  00,74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,\
+  65,00,72,00,6f,00,5f,00,77,00,6f,00,72,00,6b,00,69,00,6e,00,67,00,2e,00,61,\
+  00,6e,00,69,00,00,00
+"Arrow"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,61,00,72,00,72,00,6f,00,77,00,2e,00,63,00,75,00,72,00,00,\
+  00
+"Crosshair"=hex(2):00,00
+"Hand"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,6c,00,69,00,6e,00,6b,00,2e,00,63,00,75,00,72,00,00,00
+"Help"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,68,00,65,00,6c,00,70,00,73,00,65,00,6c,00,2e,00,63,00,75,\
+  00,72,00,00,00
+"IBeam"=hex(2):00,00
+"No"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,\
+  25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,72,\
+  00,6f,00,5f,00,75,00,6e,00,61,00,76,00,61,00,69,00,6c,00,2e,00,63,00,75,00,\
+  72,00,00,00
+"NWPen"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,70,00,65,00,6e,00,2e,00,63,00,75,00,72,00,00,00
+"Scheme Source"=dword:00000002
+"SizeAll"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,\
+  00,72,00,6f,00,5f,00,6d,00,6f,00,76,00,65,00,2e,00,63,00,75,00,72,00,00,00
+"SizeNESW"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,\
+  00,72,00,6f,00,5f,00,6e,00,65,00,73,00,77,00,2e,00,63,00,75,00,72,00,00,00
+"SizeNS"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,6e,00,73,00,2e,00,63,00,75,00,72,00,00,00
+"SizeNWSE"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,\
+  00,72,00,6f,00,5f,00,6e,00,77,00,73,00,65,00,2e,00,63,00,75,00,72,00,00,00
+"SizeWE"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,65,00,77,00,2e,00,63,00,75,00,72,00,00,00
+"UpArrow"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,\
+  00,72,00,6f,00,5f,00,75,00,70,00,2e,00,63,00,75,00,72,00,00,00
+"Wait"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,62,00,75,00,73,00,79,00,2e,00,61,00,6e,00,69,00,00,00
+                                                                                                                                                 
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\2a737441-1930-4402-8d77-b2bebba308a3\d4e98f31-5ffe-4ce1-be31-1b38b384c009\DefaultPowerSchemeValues\381b4222-f694-41f0-9685-ff5bb260df2e]
+"ACSettingIndex"=dword:0
+"DCSettingIndex"=dword:0
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\2a737441-1930-4402-8d77-b2bebba308a3\d4e98f31-5ffe-4ce1-be31-1b38b384c009\DefaultPowerSchemeValues\8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c]
+"ACSettingIndex"=dword:0
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\3b04d4fd-1cc7-4f23-ab1c-d1337819c4bb\DefaultPowerSchemeValues\381b4222-f694-41f0-9685-ff5bb260df2e]
+"ACSettingIndex"=dword:0
+"DCSettingIndex"=dword:0
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\3b04d4fd-1cc7-4f23-ab1c-d1337819c4bb\DefaultPowerSchemeValues\8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c]
+"ACSettingIndex"=dword:0
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\4b92d758-5a24-4851-a470-815d78aee119\DefaultPowerSchemeValues\381b4222-f694-41f0-9685-ff5bb260df2e]
+"ACSettingIndex"=dword:64
+"DCSettingIndex"=dword:64
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\4b92d758-5a24-4851-a470-815d78aee119\DefaultPowerSchemeValues\8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c]
+"ACSettingIndex"=dword:64
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\7b224883-b3cc-4d79-819f-8374152cbe7c\DefaultPowerSchemeValues\381b4222-f694-41f0-9685-ff5bb260df2e]
+"ACSettingIndex"=dword:64
+"DCSettingIndex"=dword:64
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\7b224883-b3cc-4d79-819f-8374152cbe7c\DefaultPowerSchemeValues\8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c]
+"ACSettingIndex"=dword:64
